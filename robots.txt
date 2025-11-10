@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vermillion-cannoli-466557.netlify.app/sitemap.xml
